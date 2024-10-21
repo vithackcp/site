@@ -37,8 +37,8 @@ body {
 .okno {
     background-color: rgba(0,0,0,0.5);
     position: absolute;
-    top: 200px;
-    left: 750px;
+    top: 19.084vh;
+    left: 40vw;
     padding: 250px 200px 200px 180px;
     border-radius: 25px;
 }
